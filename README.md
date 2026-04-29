@@ -1,4 +1,4 @@
-## Hi there 👋， I'm Zhong
+## Hi there 👋， I'm Kyrius
 
 - 🔭 I’m currently working on Computer Vision, Machine Learning and Typical Projects related with Computer Science.
 - 🌱 I’m currently learning some classical project which is related with machine learning and several courses of CS.
